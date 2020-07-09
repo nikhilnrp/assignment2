@@ -12,7 +12,7 @@
   color: white ;
   background-color: #008000;
   border: 1px solid black ;
-  font-size: 25px ;
+  font-size: 135% ;
   font-weight: bold;
   font-family: monospace;
 }
@@ -21,6 +21,7 @@ h1 {
   margin-bottom: 30px;
   text-align:center;
   font-family: georgia ;
+  font-size: 175% ;
 }
 .outer {
     background-color: #FAEBD7;
@@ -33,6 +34,7 @@ h1 {
   font-family: cursive; 
   color: black;
   clear: right;
+  font-size: 100% ;
 }
 
 
